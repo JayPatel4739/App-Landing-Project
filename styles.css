@@ -1,0 +1,75 @@
+.section{
+    width: auto;
+    height: 350px;
+    background-color: bisque;
+}
+
+.content{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.line{
+    border-color: blue;
+    border-width: 2px;
+    margin-left: -80px;
+    margin-right: -80px;
+}
+
+#btn{
+    background-color: blue;
+    color: white;
+}
+
+#card{
+    margin: 20px;
+}
+
+#title{
+    text-align: center;
+    margin: 30px;
+}
+
+#img{
+    border-radius: 50%;
+    width: 300px;
+    margin-left: 90px;
+}
+
+#footer{
+    width: auto;
+    height: 350px;
+    background-color: bisque;
+}
+
+#download{
+    text-align: center;
+    padding: 30px;
+}
+
+#apple{
+    width: 100px;
+}
+
+#android{
+    width: 100px;
+}
+
+#contact{
+    text-align: center;
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+}
+
+#line1{
+    border-color: blue;
+    border-width: 2px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
