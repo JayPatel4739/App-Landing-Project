@@ -152,7 +152,6 @@
     width: 60%;
 }
 
-/* ✅ Responsive changes for screens under 768px */
 @media (max-width: 768px) {
     .content {
         padding: 10px;
